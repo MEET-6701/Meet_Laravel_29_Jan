@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    
+}
+.frm{
+    background-position: inherit;
+    border: 2px solid  ;
+    align-items: center;
+    margin-top: 20%;
+    color: white;
+}
+.t1{
+    text-align: center;
+    margin-left: 40%;
+}
+.submit{
+    color: white;
+    background: green;
+    margin-left: 45%;
+}
+.bg{
+   
+    height: 100%;
+}
